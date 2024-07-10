@@ -1,0 +1,12 @@
+# Log fájlok
+*.log
+
+# Ideiglenes fájlok
+*.tmp
+
+# Mappa kizárása
+node_modules/
+
+# IDE fájlok
+.vscode/
+.idea/
